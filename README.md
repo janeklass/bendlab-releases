@@ -6,7 +6,9 @@ Androidi rakendus, mis arvutab painutuspingi töö põhinumbrid: tööriista val
 
 ## Allalaadimine
 
-👉 **[Laadi alla uusim versioon](https://github.com/janeklass/bendlab-releases/releases/latest)** (fail `BendLab-x.x.apk`)
+👉 **[Laadi alla BendLab.apk](https://github.com/janeklass/bendlab-releases/releases/latest/download/BendLab.apk)** – otselink, annab alati uusima versiooni
+
+Kõik versioonid ja muudatused: [Releases](https://github.com/janeklass/bendlab-releases/releases)
 
 ## Paigaldamine
 
@@ -28,6 +30,6 @@ Kõik tulemused on hinnangud. Täpsed väärtused annab proovipainutus; materjal
 
 BendLab calculates the key numbers for press brake work: tool selection, bending force, blank length (also from a hand-drawn profile), angle and springback, punch depth, flange limits and weight. 156 materials with sources. Estonian and English, light and dark theme. Works offline and collects no data.
 
-**[Download the latest version](https://github.com/janeklass/bendlab-releases/releases/latest)**, open the `.apk` on your phone, allow installing from this source, and tap **Install**. Android 7.0 or newer. All results are estimates; a test bend gives exact values.
+**[Download BendLab.apk](https://github.com/janeklass/bendlab-releases/releases/latest/download/BendLab.apk)** (always the latest version), open the `.apk` on your phone, allow installing from this source, and tap **Install**. Android 7.0 or newer. All results are estimates; a test bend gives exact values.
 
 © Janek Lass. Kõik õigused kaitstud. Selles repos on ainult rakenduse paigaldusfailid.
