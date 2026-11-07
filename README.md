@@ -20,6 +20,10 @@ Uuendamiseks paigalda uus versioon lihtsalt vana peale – seaded jäävad alles
 
 Nõuded: Android 7.0 või uuem.
 
+## Privaatsus
+
+Rakendus ei kogu andmeid: [privaatsuspoliitika](https://janeklass.github.io/bendlab-releases/privaatsus.html).
+
 ## Oluline
 
 Kõik tulemused on hinnangud. Täpsed väärtused annab proovipainutus; materjali tugevus (Rm) kõigub partiiti, kontrolli alati materjali sertifikaati.
@@ -30,6 +34,6 @@ Kõik tulemused on hinnangud. Täpsed väärtused annab proovipainutus; materjal
 
 BendLab calculates the key numbers for press brake work: tool selection, bending force, blank length (also from a hand-drawn profile), angle and springback, punch depth, flange limits and weight. 156 materials with sources. Estonian and English, light and dark theme. Works offline and collects no data.
 
-**[Download BendLab.apk](https://github.com/janeklass/bendlab-releases/releases/latest/download/BendLab.apk)** (always the latest version), open the `.apk` on your phone, allow installing from this source, and tap **Install**. Android 7.0 or newer. All results are estimates; a test bend gives exact values.
+**[Download BendLab.apk](https://github.com/janeklass/bendlab-releases/releases/latest/download/BendLab.apk)** (always the latest version), open the `.apk` on your phone, allow installing from this source, and tap **Install**. Android 7.0 or newer. All results are estimates; a test bend gives exact values. [Privacy policy](https://janeklass.github.io/bendlab-releases/privaatsus.html).
 
 © Janek Lass. Kõik õigused kaitstud. Selles repos on ainult rakenduse paigaldusfailid.
