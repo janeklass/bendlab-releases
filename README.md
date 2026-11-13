@@ -2,7 +2,7 @@
 
 **Painutuskalkulaator painutuspingi operaatorile** · *Press brake calculator for operators*
 
-Androidi rakendus, mis arvutab painutuspingi töö põhinumbrid: tööriista valik, painutusjõud, tooriku pikkus (ka joonistatud profiilist), nurk ja tagasivetrumine, templi sügavus, äärte piirangud ja kaal. 156 materjali koos allikatega. Eesti ja inglise keeles, hele ja tume teema. Töötab ilma internetita ega kogu mingeid andmeid.
+Androidi rakendus, mis arvutab painutuspingi töö põhinumbrid: tööriista valik, painutusjõud, tooriku pikkus (ka joonistatud profiilist), nurk ja tagasivetrumine, templi sügavus, äärte piirangud ja kaal. 483 materjali koos allikatega. Eesti ja inglise keeles, hele ja tume teema. Töötab ilma internetita ega kogu mingeid andmeid.
 
 ## Allalaadimine
 
@@ -32,7 +32,7 @@ Kõik tulemused on hinnangud. Täpsed väärtused annab proovipainutus; materjal
 
 ### English
 
-BendLab calculates the key numbers for press brake work: tool selection, bending force, blank length (also from a hand-drawn profile), angle and springback, punch depth, flange limits and weight. 156 materials with sources. Estonian and English, light and dark theme. Works offline and collects no data.
+BendLab calculates the key numbers for press brake work: tool selection, bending force, blank length (also from a hand-drawn profile), angle and springback, punch depth, flange limits and weight. 483 materials with sources. Estonian and English, light and dark theme. Works offline and collects no data.
 
 **[Download BendLab.apk](https://github.com/janeklass/bendlab-releases/releases/latest/download/BendLab.apk)** (always the latest version), open the `.apk` on your phone, allow installing from this source, and tap **Install**. Android 7.0 or newer. All results are estimates; a test bend gives exact values. [Privacy policy](https://janeklass.github.io/bendlab-releases/privaatsus.html).
 
